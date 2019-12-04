@@ -1,0 +1,54 @@
+Dimension Measurements:
+The inner cylinder has a diameter of 20cm, the Outer cylinder has a diameter of 23 cm
+
+
+20:00 The upper acrylic plate of the foil removed
+The foil is placed with its magenetization axis anti-parellel to the movement axis 
+The Al frame of the foil is 3mm thick 
+The height difference between the foil and the fluxgate shuold still be 15mm
+
+20:09 Measurement of the distance between rod and the profile frame (of +x) at upstream: 11.2 cm 
+We scan with  fixed x: 0, and scan from -z to +z
+
+20:28 moved the rod by delta x=+1.5cm
+the offset from the +x frame is 9.7cm 
+Cycle #35 is wrong
+
+20:38 Moved the rod to offset 8.2 cm<-> x=3.0cm
+
+20:45 moved the rod to +x offset of 12.2cm <-> x=-1.0cm
+# data shold be corrected later 
+
+20:54 moved the rod to +x. offset to the +z frame is 14.2cm <-> x=-3cm
+
+21:05 removing the foil out to prepare for the reference measurement 
+21:08 reference measurement at x=-3cm
+21:13 reference measurement at x=-1cm
+21:21 reference measurement at x=0cm
+21:31 reference measurement at x=1.5cm
+21:43 re-centering the probe before moving the foil upward 
+21:51 loosened the band to lower the cylinder, checked by a level that it is leveled
+      Measuring the new height difference between the probe and the foil
+The acrylic plate is 17.8 cm width and 7mm thick
+The height difference between the lower end of the probe housing and the top surface of the archlic holder of the foil is 
+previously it was 1.7cm  
+
+fluxgate thickness: 30 mm
+sensor to the bottom of the housing: 15 mm
+between the bottom of the housing to the archrlic plate: 17 mm (yesterday), 28mm (today)
+Al frame is 3mm thick 
+---> 15 + 17 - 3 = 29 mm (yesterday)
+---> 15 + 28 - 3 = 40 mm (new height)
+Effectively we raised the fluxgate by 11 mm. delta y = -1.1 cm
+
+22:03 reference measurement at x=0cm
+22:09 moving the probe toward +x, x=+2cm <-> 9.2cm of offset 
+22:17 moving toward -x, x=-2cm <-> 11.2 cm offset 
+22:30 placed the foil at the center, 29.2cm from each side 
+22:36 moving the probe towrd +x, x=0cm <-> 11.2 cm
+22:43 moving to x=+2cm <-> offset of 9.2 cm
+22:49 finished the run, we store the foil in the frame 
+
+
+
+ 

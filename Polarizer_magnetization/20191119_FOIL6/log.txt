@@ -1,0 +1,53 @@
+2019-11-19
+11:36 Measuring the background
+
+SHR prepared a LEBOW foil, that had no applied current, labbeled FOIL6
+
+48.8 mm from top of flux gate to top of acrylic plate
+Top of foil holder to acrylic plate is 6.0 mm 
+
+12:40 Measuring along the axis that we eventurally will magnetize to
+
+12:50 Finished along -z axis, moving the marked axis to point aling the +x
+
+12:55 Measuring the transverse direction of the LEBOW foil with no applied current in its history
+
+I may have repeated the -7 measurement on cycle 6
+cycle 12 is labelled 10.5 but is actually 10
+1:04 pm finished measuring the components of the LEBOW FOIL6
+
+Taking out the foil from Thor.Lau. from the foil holder. IT is labelled with a peice of masking tape. I am labelling this foil FOIL3
+1:49 magnetized the foil along -z axis iwht 100A of current at ramp rate, 4.12 s/A or 0.24 A/s. measuring parallel
+(100A, 0), 
+(90A, 49s),
+(80A, 1min 33s), 
+(70A, 2min 15s),
+(60A, 2min 53s), 
+(50A, 3min 26s),
+(40A, 4min 4s), 
+(30A, 4min 47s),
+(20A, 5min 23s), 
+(10A, 6min 02s),
+(0A, 6min 52s)
+
+2:09 finished measuring the axial and transverse magentization of the foil
+
+4:14 magnetized in the opposite direction (+z) and finished measuring in the antiparallel positon
+The ramp rate was 18.54 s/A or 0.054 A/s
+(100A, 0), 
+(90A, 3 min 12s),
+(80A, 5min 48s), 
+(70A, 9min 19s),
+(60A, 12min 50s), 
+(50A, 16min 12s),
+(40A, 18min 59s), 
+(30A, 22min 07s),
+(20A, 25min 22s), 
+(10A, 28min 42s),
+(0A, 30min 54s)
+
+4:17 Moved the marker to point along (+x) so that the magentization is negative what it was before
+
+cycle two of the transvere- antioparallel aligned magnetic field should be 5.5
+4:27 Finished 
+

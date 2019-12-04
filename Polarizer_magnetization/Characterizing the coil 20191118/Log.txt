@@ -1,0 +1,35 @@
+2019-11-18
+Used a Lakeshore 440 3-Channel Guassmeter
+Ramped up to power supply 100A and turned off coil in between x position changes, but not z
+BZ was measured in kGuass, while [Bx] and [Bz] was measured in Gauss
+Z axis whas pointing downwards, along the coil central axis
+The starting temperature of the coil was around room temperature
+The final temperature of the coil was around 45 deg C.
+
+After test the probe reads: 
+Bx = 2.52 G, By = -0.98 G, Bz = 11.13 G
+
+14:13 zero probe each axis 
+14:15 placed the probe at teh same position
+Bx = 2.401 G, By = -0.6838 G, Bz = 11.0915 G 
+
+
+
+2019-11-18
+unmagnetized Thor. Lau. Foil transfered and labelled with a single peice of masking tape (yellow).
+Pol1 foil was labled with masking tape and green tape
+2:40 pm ramping on magnet, temp is 30.5 deg C
+Took under a minute 2:40 pm
+
+Ramping down from 100 A at time 2:41 pm, started a stop watch 
+(100 A, 0s)
+(90 A, 54 s)
+(80 A, 1min 35s)
+(70 A, 2min 22s)
+(60 A, 3min 9s)
+(50 A, 4min 6s)
+(40 A, 4min 55s)
+(30 A, 5min 44s)
+(20 A, 6min 32s) temp is 33.1 deg C
+(10 A, 7min 22s)
+(0 A, 8min 19s)

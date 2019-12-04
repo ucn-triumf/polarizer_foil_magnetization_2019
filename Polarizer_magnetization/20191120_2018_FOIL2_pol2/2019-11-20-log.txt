@@ -1,0 +1,18 @@
+2019-11-20 log
+1:31 We removed the foil now labelled FOIL2 from POL2 and are preparing to measure it
+	-I noticed the screws holding the foil in place in POL2 are now manetized
+
+The two x-axis of the acryilc plate are 
+17.7 cm (positioned in the -z direction) and 17.7 cm (+z direction side). 
+
+Aligning the magnetization direction in the -z direction to be consistent (it is marked with masking tape)
+Centering the foil in the usual way. 
+
+1:37 Taking measurments of the alinged axis
+
+at some point we took transverse measurment with the masking tape make pointing along the +x direction
+
+cycle 31 and 32 of the background measurement I wrote 12 and 12.5
+This is a mistake. Should be 20 and 20.5
+
+2:06 finished taking data for FOIL2 POL2 and a BG measurment

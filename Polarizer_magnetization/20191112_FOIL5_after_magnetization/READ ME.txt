@@ -1,0 +1,6 @@
+u was measured in inch! +- 2 mm
+Distance from the bottom of the fluxgate to the foil: 15 mm 
+	->from the fluxgate center to the foil: 30.5 mm
+Last point: Rear end of the fluxgate to the outer edge of the gradiometer frame: 29 cm
+	->from the fluxgate center to the edge: 42.5 cm
+First point: 29" from the last point

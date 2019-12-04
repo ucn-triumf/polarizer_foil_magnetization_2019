@@ -1,0 +1,55 @@
+2019-11-22
+
+## Gradiometer meausrement of re-magnetized foil
+The Thorson foil which we magnetized at 170A yesterday, FOIL4 =?
+This shold have been the foil which was used in POL2 in 2018
+
+### Observation/measurement 
+Small scratch on the surface
+
+### placement of the foil on the Acyrlic plate 
+Diameter of teh AL frame + 36mm = Acyrlic plate length
+Hole of the Al frame to lower edge of Acrylic plate = 20.5 mm
+
+### Parallel scan
+10:58 Tried to align the fluxgate at the center of the plate
+the spacing between the Al frames and the Al rod: 11.8 mm on the right 
+We may have an offset toward -x by 1-2 mm
+Label 'DOWN' was facing +z direction (away from the experiemnter)
+
+### Took out the foil in order to rotate it 
+From the top of the fluxgate to the top of the Al frame: 42.5 mm
+Fluxgate side length: 31.2 mm
+From the Acrylic plat to the top of the Al frame: 5.5mm on the left(-x) side, 5.65mm on the right (+x) side
+-> this implies a small elevetion angle 
+Diameter of the Al frame 141.15 mm
+Acyrlic plate thickness: 5.7 mm
+Acyrlic plate side length: 7 inch bothes
+Rotated the foil by 90-deg 
+Placed the frame again so that the hole-lower edge of Acrylic = 20.5 mm
+Centered the frame in reference to the acrylic plate 
+
+Placed the Acrylic plate in the mu-metal cylinder: 25.4cm, 29cm
+Looks centered!
+
+### Transverse scan 
+Orientation: the label 'DONW' was facing +x direction 
+11:31 finished 
+11:32 Estimated the elevation angle: 
+    height of the Al frame from the acyrlic plate (-z edge) 5.65 mm
+    height of the Al frame from the acyrlic plate (+z edge) 5.35 mm
+11:34 Reassmbling the Acyrlic cover (the foil rotated back as before)
+
+### Background scan 
+11:45 done
+
+
+
+
+
+
+
+
+
+
+ 

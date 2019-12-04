@@ -1,0 +1,9 @@
+16:33 Thorston foil (magnetized with 100 A current) is placed antiparallel in the magnetometer
+-> Increments changed to .5"
+-> Placement as allways
+-> Sub loop wait is 300 ms
+--->Cycl 32 (z=-21) redo: was half an inch to far (at z=-21.5)
+
+16:50 Foil turned for transverse measurement
+
+17:10 Foil removed for background test

@@ -1,0 +1,19 @@
+2019-11-15
+Characterization of field from the foil after it was placed in meson hall since 23h00 12th Nov
+
+10:52 placed the fluxgate so that the distance between the bottom of the fluxgate to the archrlic plate is 17mm
+---> 15 + 17 - 3 = 29 mm
+---> foil is antiparallel (top labeled edge pointing down)
+---> Top edge of acrylic plate to the lower edge of the inner shielding in the middle of the shielding: 29.2 cm (from each side)
+---> Top edge of acrylic plate to lower edge of the inner shielding (straight down): 5.6 cm
+---> changed the sub loop wait time from 1000 ms to 300 ms
+
+Acrylic plate: 
+- thickness: 6.5 mm
+- diameter: 7"
+- distance from acrylic edge to foil edge (antiparallel): 7 mm
+- distance from acrylic edge to foil edge (transverse): 8.5 mm
+
+11:27 placed the foil transverse
+
+11:38 measuring the background field

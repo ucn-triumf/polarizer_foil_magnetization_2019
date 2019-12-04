@@ -1,0 +1,11 @@
+Characterizing one of the new Thorston foils before a field was applied to it
+
+14:07 RUN1: Direction: nut on far z direction
+- Bottom of the plate to top of foil holder: 12.7 mm
+- Foil holder diameter: 7"
+- Foil holder thickness: 3.3 mm
+---> Distance bottom of plate to foil: 12.7-(3.3/2)
+-> Distance from acrylic edge to foil edge: 18.4 mm
+-> Distance from the acrylic edge to the lower edge of the inner shielding: 29.2 cm
+
+14:14 RUN2: Direction: nut on far x direction 

@@ -1,0 +1,14 @@
+Characterizing the old foil used in POL1 in the 2018 run
+
+
+13:43 Foil is placed parallel to the sled movement
+-> Down is pointing in the positive z direction
+- Bottom of the plate to top of foil holder: 11.9 mm
+- Foil holder diameter: 7"
+- Foil holder thickness: 3.3 mm
+---> Distance bottom of plate to foil: 11.9-(3.3/2)
+-> Distance from acrylic edge to foil edge: 18.4 mm
+-> Distance from the acrylic edge to the lower edge of the inner shielding: 29.2 cm
+
+13:52 Foil is placed transverse to the sled movement
+-> Down is pointing in the positive x direction

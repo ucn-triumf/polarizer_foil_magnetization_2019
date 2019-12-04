@@ -1,0 +1,32 @@
+Assembled POL2 with new Halbach Array early today
+(Sean said: Tape was pointing down in the Halbach array)
+
+Measuring background field
+2019-11-21
+1:40 cycle number 24 I measured 16.5 but was at 16
+
+Distance from top of fluxgate to top of acrylic plate = 4.8 cm
+Distance form top of fluxgate to top of foil holder = 4.3 cm
+
+Aligning the foil in the usual procedure
+make sure it is centered and pointing in the correct direction on the plate
+center plate slowly
+rotate inner sheild so that the foil surface is aligned with the fluxgates bottom
+
+Piece of tape of FOIL4 is pointing in the -z direction to start
+
+In transverse measurment cycle 7 labelled 7.8 instead of 8. Next cycle I repeated 8
+
+3:18pm 
+Put the FOIL4 inside POL2 with Halbach version 2 for approximately 30 min. It was in the aligned position
+
+Now testing (-Z) alinged to see if there is any change
+
++X aligned cycle 6 wrote 7.8 instead of 8
+cycle 11 I wrote 11.5 but should be 11
+Finished
+From just looking at the raw data, it looks like there was no magnetization or very little
+
+17:00: Re-magnetized it with 173 A in the opposite direction
+-> Tape was up while magnetized
+-> Tape should point in -z and +x direction while measuring (Gradiometer)

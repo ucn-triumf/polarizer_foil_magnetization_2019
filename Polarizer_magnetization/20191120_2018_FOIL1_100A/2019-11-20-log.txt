@@ -1,0 +1,39 @@
+2019-11-20 log
+1:31 We removed the foil now labelled FOIL2 from POL2 and are preparing to measure it
+	-I noticed the screws holding the foil in place in POL2 are now manetized
+
+The two x-axis of the acryilc plate are 
+17.7 cm (positioned in the -z direction) and 17.7 cm (+z direction side). 
+
+Aligning the magnetization direction in the -z direction to be consistent (it is marked with masking tape)
+Centering the foil in the usual way. 
+
+1:37 Taking measurments of the alinged axis
+
+at some point we took transverse measurment with the masking tape make pointing along the +x direction
+
+cycle 31 and 32 of the background measurement I wrote 12 and 12.5
+This is a mistake. Should be 20 and 20.5
+
+2:06 finished taking data for FOIL2 POL2 and a BG measurment
+
+3:31 magentizd it with the florr deguassing coil, at 100 amps
+[amps,min:sec]
+(100,0)
+(90,0:58)
+(80,1:50)
+(70,2:47)
+(60,3:38)
+(50,4:24)
+(40,5:12)
+(30,6:18)
+(20,6:42)
+(10,7:00)
+(0,7:40)
+Magnetized along -z direction. Hopefully see a more aligned magnetic filed measurment
+FOIL2 POL@ transverse: cycle 2 I wrote 5.6 instead of 6.0
+
+Magnetized POL1 - use background data from POL2 20191120 folder
+4:21pm Finished measuring the foil magentization for the parallel case mZ=minus Z aligned
+4:29pm Finished measuring the transverse direction
+
